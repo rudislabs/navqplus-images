@@ -12,7 +12,7 @@ Make sure boot switches are in flash mode:
 | Flash |    ON    |    OFF   |
 ### Uncompress image for flashing faster
 ```bash
-bunzip2 navqplus-image-22.04-humble-<date>.wic.zst
+unzstd navqplus-image-22.04-humble-<date>.wic.zst
 ```
 ### Flash image with `uuu` to emmc
 ```bash
