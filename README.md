@@ -1,5 +1,5 @@
 # Image Release Details
-## 22.04.3
+## 22.04.3-humble
 - Add gscam for ROS 2.
 - Fix chrony time offset.
 - Add compressed image transport for ROS 2.
