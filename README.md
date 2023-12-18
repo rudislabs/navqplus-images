@@ -1,4 +1,11 @@
-# NavQPlus Ubuntu 22.04 ROS 2 Humble images on 6.x.x kernels
+# Image Release Details
+## 22.04.3
+- Add gscam for ROS 2.
+- Fix chrony time offset.
+- Add compressed image transport for ROS 2.
+- Disable apport to avoid cpu spikes.
+
+# General for NavQPlus Ubuntu 22.04 ROS 2 Humble images on 6.x.x kernels
 See releases
 
 ## Flash image with `uuu` to emmc
