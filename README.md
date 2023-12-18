@@ -4,6 +4,7 @@
 - Fix chrony time offset.
 - Add compressed image transport for ROS 2.
 - Disable apport to avoid cpu spikes.
+- Remove iron vision msgs.
 
 # General for NavQPlus Ubuntu 22.04 ROS 2 Humble images on 6.x.x kernels
 See releases
