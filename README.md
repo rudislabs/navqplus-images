@@ -1,4 +1,9 @@
 # Image Release Details
+
+## 22.04.4-humble
+- Add screen
+- Enable UART4
+
 ## 22.04.3-humble
 - Add gscam for ROS 2.
 - Fix chrony time offset.
