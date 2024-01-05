@@ -2,7 +2,7 @@
 
 ## 22.04.4-humble
 - Add screen
-- Enable UART4
+- Enable CH340 for CogniPilot Universal Programmer and UART Adapter Board v1
 
 ## 22.04.3-humble
 - Add gscam for ROS 2.
